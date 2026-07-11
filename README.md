@@ -13,7 +13,22 @@ The HealthCare AI Assistant Platform helps users better understand their health 
 - 🤒 AI-powered symptom analysis
 - 📚 Health education
 - 🚨 Alerts users when professional medical care may be needed
+## 📸 Application Screenshots
 
+### Home Page
+![Home Page](home.png)
+
+### Patient Information
+![Patient Information](patient_information.png)
+
+### Medical History
+![Medical History](medical_history.png)
+
+### Symptom Input
+![Symptom Input](symptom_input.png)
+
+### AI Response
+![AI Response](ai_response.png)
 ## ⚙️ Technologies Used
 - Amazon AWS PartyRock
 - Generative AI
